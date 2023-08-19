@@ -1,0 +1,18 @@
+{
+    "name": "wpbean/wpbean-blocks-starter",
+    "description": "WpBean Blocks Starter boilerplate plugin for multiple blocks",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "Wpbean\\WpbeanBlocksStarter\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "WpBean"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
